@@ -20,7 +20,7 @@ Final Project: https://inst.eecs.berkeley.edu/~cs180/fa23/upload/files/proj6/bil
 
 ## EECS106A: Teleoperation Using Gestures
 
-Please visit https://github.com/noahadhikari/eecs106a-final-project for more information
+Please visit [our website](https://sites.google.com/berkeley.edu/eecs106a-final-project) for more information
 
 ## CS288
 
