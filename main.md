@@ -40,6 +40,16 @@ Objectives and results are available if requested. Code will not be shared in ac
 
 Coding a neural network by hand using just numpy
 
+Functionalities:
+
+Layers: linear, max/average pooling, batchnorm, convolution, strided convolution
+
+Activations: ReLU, tanh, sigmoid
+
+Code available upon request
+
 ## CS182
 
 Final Project: a dive into transformers interpretability and other new methods (at the time), including PPO and RLHF
+
+Please refer to /182/ for more info
