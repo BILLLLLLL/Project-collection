@@ -2,7 +2,7 @@
 
 ## CS285
 
-Final Project: Improving Implicit Q-Learning using Distance-weighted methods
+Final Project: Improving Implicit Q-Learning using Distance-weighted methods. [PDF](https://github.com/BILLLLLLL/Project-collection/blob/main/285_final_project.pdf)
 
 ## CS180
 
