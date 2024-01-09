@@ -6,16 +6,15 @@ Final Project: Improving Implicit Q-Learning using Distance-weighted methods
 
 ## CS180
 
-Project 1: Coloring the Prokudin-Gorskii collection
+Project 1: Coloring the Prokudin-Gorskii collection: https://inst.eecs.berkeley.edu/~cs180/fa23/upload/files/proj1/bill.cy.zheng
 
-Project 2: Filters and Frequencies of Images
+Project 2: Filters and Frequencies of Images: https://inst.eecs.berkeley.edu/~cs180/fa23/upload/files/proj2/bill.cy.zheng
 
-Project 3: Affine Transformation with Face Morphing
+Project 3: Affine Transformation with Face Morphing: https://inst.eecs.berkeley.edu/~cs180/fa23/upload/files/proj3/bill.cy.zheng
 
-Project 4: Perspective Transformation with Mosaicing
+Project 4: Perspective Transformation with Mosaicing: https://inst.eecs.berkeley.edu/~cs180/fa23/upload/files/proj4B/bill.cy.zheng
 
-Project 5: Neural Radiance Fields (NeRF)
-
+Project 5: Neural Radiance Fields (NeRF): https://inst.eecs.berkeley.edu/~cs180/fa23/upload/files/proj5/bill.cy.zheng
 
 Final Project: https://inst.eecs.berkeley.edu/~cs180/fa23/upload/files/proj6/bill.cy.zheng
 
