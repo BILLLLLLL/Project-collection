@@ -46,7 +46,7 @@ Layers: linear, max/average pooling, batchnorm, convolution, strided convolution
 
 Activations: ReLU, tanh, sigmoid
 
-Code available upon request
+Results available upon request
 
 ## CS182
 
